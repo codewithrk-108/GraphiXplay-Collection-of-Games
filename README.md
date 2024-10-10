@@ -1,4 +1,4 @@
-# GraphicGames-Collection-of-Games
+# GraphicGames : Collection-of-Games
 ## Jetpack Joyride : A 2D - Game
 Code Link : [Jetpack Joyride](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/rohan_kumar_students_iiit_ac_in/ErLh9Sk-HtBCjUL3pyGo8oMBqD53JcrTCkB8gcsaD30wAg?e=2t2con)
 
