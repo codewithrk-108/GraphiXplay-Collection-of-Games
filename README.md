@@ -25,8 +25,7 @@ The image displays the last level of the game i.e. Level 3. (Max speed)
 
 ## Car Racing : A 3D - Game
 Code Link : [Car Racing 3D](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/rohan_kumar_students_iiit_ac_in/EgS2HVfVZx1LsrSmRwnILTIBJ9-78XzbiNgc6kqOV9Kt4g?e=T9xDZr)
-
-Youtube Link : [Car Racing](https://youtu.be/pyXwkHO7MfA)
+Youtube Link : [Car Racing 3D](https://youtu.be/pyXwkHO7MfA)
 
 
 - The game is built WebGL and three.js.
