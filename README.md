@@ -61,10 +61,8 @@ Collision with car reduces your health.
 - Camera Angles : Driver view and a external participant view.
 - Fuel: There are fuel cans at various places on the track. If you hit a fuel can, your fuel increases.
 
-[<img src="" width="50%">](https://youtu.be/pyXwkHO7MfA)
-![Screenshot from 2024-10-10 15-34-07](https://github.com/user-attachments/assets/57c2e691-0a64-467c-a77e-280cc11d686e)
-
-Youtube Link : [Car Racing]
+[<img src="3DGame/images/car3d.png" width="100%">](https://youtu.be/pyXwkHO7MfA)
+Youtube Link : [Car Racing](https://youtu.be/pyXwkHO7MfA)
 
 
 ## Mini-Trailer using Blender
@@ -73,6 +71,5 @@ The robbers are rushing away over the bridge and through the road in a yellow tr
 The animations and the objects in the scene were made from Blender, while for the Pathan's car, it was imported as ready-made graphics model.
 The video can be viewed on youtube.
 
-[<img src="" width="50%">](https://youtu.be/_Or09Vg_D80)
-
+[<img src="mini-project/images/car.png" width="100%">](https://youtu.be/_Or09Vg_D80)
 Youtube Link : [Mini Project](https://www.youtube.com/watch?v=_Or09Vg_D80)
