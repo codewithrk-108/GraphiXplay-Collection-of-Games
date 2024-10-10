@@ -29,7 +29,7 @@ Code Link : [Car Racing 3D](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/r
 Youtube Link for demo : [Car Racing 3D](https://youtu.be/pyXwkHO7MfA)
 
 
-- The game is built WebGL and three.js.
+- The game is built using WebGL and three.js.
 ### Installation
 ```
 npm install three
