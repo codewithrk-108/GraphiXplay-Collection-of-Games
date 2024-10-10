@@ -22,8 +22,6 @@ The image displays the mid level of the game i.e. Level 2. (Greater speed)
 <img src="2DGame/images/level3/l3.jpeg"></img>
 The image displays the last level of the game i.e. Level 3. (Max speed)
 ** **
-<img src="2DGame/images/level3/game-over.jpeg"></img>
-The above dialog box opens when the game is over!
 
 ## Car Racing : A 3D - Game
 Code Link : [Car Racing 3D](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/rohan_kumar_students_iiit_ac_in/EgS2HVfVZx1LsrSmRwnILTIBJ9-78XzbiNgc6kqOV9Kt4g?e=T9xDZr)
