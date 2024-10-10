@@ -1,0 +1,9 @@
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/install/strip.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/install/local.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/edit_cache.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/package_source.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/install.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/list_install_components.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/rebuild_cache.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/package.dir
+/home/rkiiith/Downloads/freetype-2.10.1/build/CMakeFiles/freetype.dir

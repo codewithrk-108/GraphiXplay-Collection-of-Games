@@ -1,0 +1,9 @@
+/home/rohan/rohan_project_2024/2021101070/build/CMakeFiles/app.dir
+/home/rohan/rohan_project_2024/2021101070/build/CMakeFiles/glad.dir
+/home/rohan/rohan_project_2024/2021101070/build/CMakeFiles/edit_cache.dir
+/home/rohan/rohan_project_2024/2021101070/build/CMakeFiles/rebuild_cache.dir
+/home/rohan/rohan_project_2024/2021101070/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/rohan/rohan_project_2024/2021101070/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/rohan/rohan_project_2024/2021101070/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/rohan/rohan_project_2024/2021101070/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/rohan/rohan_project_2024/2021101070/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
